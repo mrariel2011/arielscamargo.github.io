@@ -1,77 +1,58 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Ariel dos Santos Camargo
+role: Programmer / Game Developer
+avatar_filename: 0b7ec5fca679d94bf07e89666465ceb2.jpg
+bio: My research interests includes programming, game developing, Unity engine
+  matter and 3D modeling.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+  - Game Development
+  - Programming
+  - Reading
+  - 3D Modelling.
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/GeorgeCushen
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/gcushen
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/
+organizations:
+  - name: Stanford University
+    url: https://www.stanford.edu/
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: PhD in Artificial Intelligence
+      institution: Stanford University
+      year: 2012
+    - course: MEng in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2009
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2008
 email: ""
-
-# Highlight the author in author lists? (true/false)
+superuser: true
 highlight_name: true
 ---
+I'm a person interested in the development of games, programs, and websites, as well as some other hobbies like animes, novels, and 3D modeling.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Before starting my technologist graduation in Jogos Digitais (Digital Games), I concluded a Computer Technician course integrated into my high-school education where I started learning about my interest in programming and resolving code-related problems.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+During that course, I learned the basics of C# through Visual Studio, Web development through PHP/JS/CSS, Database through MySQL, and a few simple projects focused on mobile through the available software. Around the middle of my 2º year, I got into contact with the Unity Game Engine through a recommendation of a teacher, and basically, got addicted. After developing some simple game projects for study in midst of my schooling period, I found myself more and more into the area, to the point of seeking a graduation related to the field.
+
+Against my expectations of my graduation, rather than finding myself trouble in projects, I learned more about the theoretical part of the game developing area. The narrative of the stories in the games, their art, the practices used for planning and documentation, as well as the logic behind the development.
+
+After concluding my graduation, I allowed myself some time to review my older projects, noting the interesting yet outdated (or rather, messy) mechanics before gathering them in new projects with a refined version of the noted ideas.
+
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
