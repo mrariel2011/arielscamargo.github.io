@@ -1,7 +1,7 @@
 ---
 title: Ariel dos Santos Camargo
 role: Programmer / Game Developer
-avatar_filename: 0b7ec5fca679d94bf07e89666465ceb2.jpg
+avatar_filename: a.png
 bio: My research interests includes programming, game developing, Unity engine
   matter and 3D modeling.
 interests:
