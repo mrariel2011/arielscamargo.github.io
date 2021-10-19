@@ -9,36 +9,16 @@ interests:
   - Programming
   - Reading
   - 3D Modelling.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+social: []
+organizations: []
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Computer Technician
+      institution: ETEC Sales Gomes (Tatuí-SP)
+      year: 2014
+    - course: Technologist in Digital Games
+      institution: UNINOVE (Botucatu-SP)
+      year: 2017
 email: ""
 superuser: true
 highlight_name: true
@@ -52,7 +32,3 @@ During that course, I learned the basics of C# through Visual Studio, Web develo
 Against my expectations of my graduation, rather than finding myself trouble in projects, I learned more about the theoretical part of the game developing area. The narrative of the stories in the games, their art, the practices used for planning and documentation, as well as the logic behind the development.
 
 After concluding my graduation, I allowed myself some time to review my older projects, noting the interesting yet outdated (or rather, messy) mechanics before gathering them in new projects with a refined version of the noted ideas.
-
-
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
