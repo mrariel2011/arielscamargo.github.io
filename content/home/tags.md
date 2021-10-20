@@ -7,6 +7,7 @@ widget: tag_cloud
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 headless: true
 =======
 =======
@@ -14,6 +15,9 @@ headless: true
 =======
 >>>>>>> parent of b0d6e9b (a)
 headless: false
+=======
+headless: true
+>>>>>>> parent of 6dd636a (disabling the unecessary pages)
 
 # Activate this widget? true/false
 active: false
