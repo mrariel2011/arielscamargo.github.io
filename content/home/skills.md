@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 100%
-  icon: iconUnity.png
+  icon: 'iconUnity.png'
   image: iconUnity.png
   icon_pack: custom
   name: Unity
