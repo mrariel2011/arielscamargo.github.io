@@ -21,13 +21,13 @@ feature:
   icon_pack: custom
   name: Unity
 - description: 80%
-  icon: iconCsharp
+  icon: iconCsharp (2)
   icon_pack: custom
   name: C#
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+- description: 15%
+  icon: iconBlender
+  icon_pack: custom
+  name: Blender
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
