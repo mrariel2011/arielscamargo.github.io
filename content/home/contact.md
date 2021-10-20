@@ -4,7 +4,11 @@
 widget: contact
 
 # This file represents a page section.
+<<<<<<< HEAD
 headless: trye
+=======
+headless: true
+>>>>>>> parent of 6dd636a (disabling the unecessary pages)
 
 # Order that this section appears on the page.
 weight: 130
