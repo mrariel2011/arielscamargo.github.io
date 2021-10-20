@@ -18,15 +18,12 @@ subtitle:
 feature:
 - description: 100%
   icon: iconUnity
-  icon_pack: fab
   name: Unity
 - description: 100%
   icon: iconCsharp
-  icon_pack: fas
   name: C#
 - description: 10%
   icon: camera-retro
-  icon_pack: fas
   name: Photography
 
 # Uncomment to use emoji icons.
