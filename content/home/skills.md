@@ -23,7 +23,6 @@ feature:
 - description: 100%
   icon: iconCsharp
   icon_pack: custom
-  icon_pack: fas
   name: C#
 - description: 10%
   icon: camera-retro
