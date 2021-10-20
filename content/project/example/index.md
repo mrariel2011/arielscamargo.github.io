@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
+- icon: hashnode
+  icon_pack: custom
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://heikyraids.hashnode.dev/
 url_code: ""
 url_pdf: ""
 url_slides: ""
