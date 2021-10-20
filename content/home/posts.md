@@ -4,7 +4,14 @@
 widget: pages
 
 # This file represents a page section.
+<<<<<<< HEAD
 headless: true
+=======
+headless: false
+
+# Activate this widget? true/false
+active: false
+>>>>>>> parent of b0d6e9b (a)
 
 # Order that this section appears on the page.
 weight: 60
