@@ -6,7 +6,11 @@ widget: contact
 # This file represents a page section.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 headless: trye
+=======
+headless: true
+>>>>>>> parent of 6dd636a (disabling the unecessary pages)
 =======
 headless: true
 >>>>>>> parent of 6dd636a (disabling the unecessary pages)
