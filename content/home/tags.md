@@ -5,12 +5,18 @@ widget: tag_cloud
 
 # This file represents a page section.
 <<<<<<< HEAD
+<<<<<<< HEAD
 headless: true
 =======
+=======
+>>>>>>> parent of b0d6e9b (a)
 headless: false
 
 # Activate this widget? true/false
 active: false
+<<<<<<< HEAD
+>>>>>>> parent of b0d6e9b (a)
+=======
 >>>>>>> parent of b0d6e9b (a)
 
 # Order that this section appears on the page.
