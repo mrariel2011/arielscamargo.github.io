@@ -18,6 +18,7 @@ subtitle:
 feature:
 - description: 100%
   icon: iconUnity.png
+  image: iconUnity.png
   icon_pack: custom
   name: Unity
 - description: 100%
