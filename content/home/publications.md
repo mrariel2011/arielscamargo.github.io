@@ -6,8 +6,11 @@ widget: pages
 # This file represents a page section.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 headless: true
 =======
+=======
+>>>>>>> parent of b0d6e9b (a)
 =======
 >>>>>>> parent of b0d6e9b (a)
 headless: false
@@ -15,6 +18,9 @@ headless: false
 # Activate this widget? true/false
 active: false
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of b0d6e9b (a)
+=======
 >>>>>>> parent of b0d6e9b (a)
 =======
 >>>>>>> parent of b0d6e9b (a)
