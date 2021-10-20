@@ -17,11 +17,10 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 100%
-  icon: 'iconUnity.png'
-  image: iconUnity.png
+  icon: iconUnity
   icon_pack: custom
   name: Unity
-- description: 100%
+- description: 80%
   icon: iconCsharp
   icon_pack: custom
   name: C#
