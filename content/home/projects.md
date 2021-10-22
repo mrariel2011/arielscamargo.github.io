@@ -29,6 +29,10 @@ content:
     tag: '*'
   - name: Game Dev
     tag: Game Dev
+  - name: Web
+    tag: Web
+  - name: Modeling
+    tag: Modeling
   - name: Other
     tag: Other
 
