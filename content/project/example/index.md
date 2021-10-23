@@ -16,7 +16,7 @@ links:
 - icon: hashnode
   icon_pack: custom
   name: Follow
-  url: https://heikyraids.hashnode.dev/
+  url: https://arielscamargo.hashnode.dev/
 url_code: ""
 url_pdf: ""
 url_slides: ""
