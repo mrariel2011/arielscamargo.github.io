@@ -8,8 +8,8 @@ date: "2021-10-23T14:05:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: "https://mrariel2011.itch.io/blue-red"
 
-image: blueredIco
-  caption: 
+image: 
+  caption: blueredIco
   focal_point: Smart
 
 links:
