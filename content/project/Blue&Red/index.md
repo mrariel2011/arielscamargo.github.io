@@ -1,5 +1,5 @@
 ---
-title: Blue & Red Game
+title: Blue & Red
 summary: An game originally developed to mobile (Android) but built into WebGL for this.
 tags:
 - Game Dev
