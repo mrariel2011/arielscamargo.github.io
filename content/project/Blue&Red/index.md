@@ -8,6 +8,7 @@ date: "2021-10-23T14:05:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: "https://mrariel2011.itch.io/blue-red"
 
+#gambiarra pra por a img: posta na pagina do projeto e renomeia como 'feature'
 image:
   caption: blueredIco
   focal_point: Smart
@@ -16,7 +17,7 @@ links:
 - icon: hashnode
   icon_pack: custom
   name: Follow Hashnode
-  url: https://heikyraids.hashnode.dev/
+  url: https://arielscamargo.hashnode.dev/
 url_code: ""
 url_pdf: ""
 url_slides: ""
