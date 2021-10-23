@@ -9,7 +9,7 @@ date: "2021-10-23T14:05:00Z"
 external_link: "https://mrariel2011.itch.io/blue-red"
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: blueredIco
   focal_point: Smart
 
 links:
