@@ -1,12 +1,12 @@
 ---
-title: Blue & Red
-summary: An game originally developed to mobile (Android) but built into WebGL for this.
+title: Base Defense
+summary: An game developed to learn and test survival game's mecanics
 tags:
 - Game Dev
 date: "2021-10-23T14:05:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://mrariel2011.itch.io/blue-red"
+external_link: "https://www.youtube.com/watch?v=DAF1VayslMw&ab_channel=Ariel"
 
 #gambiarra pra por a img: posta na pagina do projeto e renomeia como 'feature'
 image:

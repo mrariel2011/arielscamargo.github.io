@@ -1,16 +1,16 @@
 ---
-title: Blue & Red
-summary: An game originally developed to mobile (Android) but built into WebGL for this.
+title: Dungeon Prison
+summary: An game developed to learn some rpg mecanics
 tags:
 - Game Dev
-date: "2021-10-23T14:05:00Z"
+date: "2022-04-19T14:05:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://mrariel2011.itch.io/blue-red"
+external_link: "https://www.youtube.com/watch?v=rHhyhjYsjE4&ab_channel=Ariel"
 
 #gambiarra pra por a img: posta na pagina do projeto e renomeia como 'feature'
 image:
-  caption: blueredIco
+  caption: 
   focal_point: Smart
 
 links:
