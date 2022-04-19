@@ -6,7 +6,7 @@ tags:
 date: "2021-10-23T14:05:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "arielist.herokuapp.com/"
+external_link: "https://arielist.herokuapp.com/"
 
 #gambiarra pra por a img: posta na pagina do projeto e renomeia como 'feature'
 image:
