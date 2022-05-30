@@ -1,6 +1,6 @@
 ---
 title: Arielist
-summary: An site made to learn Python and Django
+summary: An to-do list made to learn Python and Django
 tags:
 - Web Dev
 date: "2021-10-23T14:05:00Z"
