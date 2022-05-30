@@ -29,15 +29,15 @@ feature:
   icon_pack: custom
   name: Blender
   #description: 15%
-  icon: 
+  icon: iconDjango
   icon_pack: custom
   name: Django
   #description: 15%
-  icon: 
+  icon: iconPython
   icon_pack: custom
   name: Python
   #description: 15%
-  icon: 
+  icon: iconGithub
   icon_pack: custom
   name: Github
 
