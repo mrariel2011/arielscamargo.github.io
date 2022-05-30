@@ -9,10 +9,7 @@ interests:
   - Programming
   - Reading
   - 3D Modelling.
-social:
-    icon: github
-    icon_pack: fab
-    link: https://github.com/mrariel2011
+social: []
 organizations: []
 education:
   courses:
