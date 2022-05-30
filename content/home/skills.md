@@ -28,6 +28,18 @@ feature:
   icon: iconBlender
   icon_pack: custom
   name: Blender
+  #description: 15%
+  icon: 
+  icon_pack: custom
+  name: Django
+  #description: 15%
+  icon: 
+  icon_pack: custom
+  name: Python
+  #description: 15%
+  icon: 
+  icon_pack: custom
+  name: Github
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
