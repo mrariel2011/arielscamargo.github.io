@@ -40,6 +40,7 @@ feature:
   icon: iconGithub
   icon_pack: custom
   name: Github
+#Important to replicate the "-" before each feature, otherwise it will mess up
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
